@@ -1,13 +1,13 @@
-### Hi there, I'm Fabio!
+### Hi there, I'm Fabio! 👋
 
 ## I'm a Full Stack Junior Web Developer
 
-- I'm currently learning Java
-- I'm looking for a role, remote or oterwise
-- I'm working on my blog
-- Fun fact: I love Martial Arts, Meditation and playing guitar.
+- ☕ I'm currently learning Java
+- 👷 I'm looking for a job, remote or oterwise
+- 📘 I'm working on my blog
+- 🃏 Fun fact: I love Martial Arts 👊, Meditation 🧠 and playing guitar 🎸
 
-### Connect with me:
+## Connect with me:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rodriguezfabio/">
@@ -29,6 +29,8 @@
 
 <br />
 
+---
+
 ## Education
 
 ### 👨‍🎓 Makers Academy (May 2021 - September 2021)
@@ -42,11 +44,33 @@
 - React, Rails, Spring Boot, Sinatra.
 - RSpec, Jasmine, Jest, Capybara.
 
-### Languages and Tools:
+---
 
-![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=frodri13&theme=blue-green&show_icons=true)
+## Languages and Tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frodri13&theme=blue-green&layout=compact)](https://github.com/frodri13/github-readme-stats)
+<div align="left">
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
+<img src="https://img.shields.io/badge/SASS-1572B6?style=for-the-badge&logo=sass&logoColor=white">
+<img src="https://img.shields.io/badge/RSpec-CC342D?style=for-the-badge&logo=RSpec&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<div/>
+
+<br />
+
+---
+
+## GitHub Stats
+
+<p align="center">
+    <img alt="Fabio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=frodri13&theme=blue-green&show_icons=true&hide_border=true&bg_color=0D1117&hide=html,css" /></a>
+  <img alt="Fabio's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frodri13&langs_count=8&count_private=true&layout=compact&theme=blue-green&hide_border=true&bg_color=0D1117&hide=html,css" /></a>
+</p>
 
 [portfolio]:
 [linkedin]:
