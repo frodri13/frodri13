@@ -13,7 +13,7 @@
 
 ### Languages and Tools:
 
-![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=frodri13&theme=dark&show_icons=true?theme=blue-green)
+![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=frodri13&theme=blue-green&show_icons=true)
 
 [portfolio]:
 [linkedin]:
