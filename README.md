@@ -15,6 +15,8 @@
 
 ![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=frodri13&theme=blue-green&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frodri13&theme=blue-green)](https://github.com/frodri13/github-readme-stats)
+
 [portfolio]:
 [linkedin]:
 [codewars]:
