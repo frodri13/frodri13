@@ -2,12 +2,14 @@
 
 ## I'm a Full Stack Junior Web Developer
 
-- ☕ I'm currently learning Java
-- 👷 I'm looking for a job, remote or oterwise
-- 📘 I'm working on my blog
+- ☕ I'm currently learning Java.
+- 👷 I'm looking for a job, remote or oterwise.
+- 📘 I'm working on my blog.
 - 🃏 Fun fact: I love Martial Arts 👊, Meditation 🧠 and playing guitar 🎸
 
 ## Connect with me:
+
+<br />
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rodriguezfabio/">
@@ -27,8 +29,6 @@
 	</a>
 </div>
 
-<br />
-
 ---
 
 ## Education
@@ -44,9 +44,13 @@
 - React, Rails, Spring Boot, Sinatra.
 - RSpec, Jasmine, Jest, Capybara.
 
+During my time with Makers, I have learnt how to TDD my applications from the ground up. And by doing so, enabling the red, green and refactor cycle. I have also instilled the main coding practicies such as DRY, SRP, OPP, etc. I model my classes before starting a new project, and debugg my applications by getting visibility, and analysing and investigating the error message.
+
 ---
 
 ## Languages and Tools:
+
+<br />
 
 <div align="left">
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
@@ -61,8 +65,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <div/>
 
-<br />
-
 ---
 
 ## GitHub Stats
@@ -71,7 +73,3 @@
     <img alt="Fabio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=frodri13&theme=blue-green&show_icons=true&hide_border=true&bg_color=0D1117&hide=html,css" /></a>
   <img alt="Fabio's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frodri13&langs_count=8&count_private=true&layout=compact&theme=blue-green&hide_border=true&bg_color=0D1117&hide=html,css" /></a>
 </p>
-
-[portfolio]:
-[linkedin]:
-[codewars]:
