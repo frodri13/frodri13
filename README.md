@@ -12,16 +12,16 @@
 <br />
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/rodriguezfabio/">
+  <a href="https://www.linkedin.com/in/rodriguezfabio/" target="_blank">
     <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
-	<a href="https://sharp-allen-d04524.netlify.app/index.html">
+	<a href="https://sharp-allen-d04524.netlify.app/index.html" target="_blank">
     <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=1F222A">
 	</a>
-	<a href="mailto:alessf13@gmail.com">
+	<a href="mailto:alessf13@gmail.com" target="_blank">
   	<img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 	</a>
-  <a href="https://www.codewars.com/users/frodri13">
+  <a href="https://www.codewars.com/users/frodri13" target="_blank">
     <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white"/>
 	</a>
 	<a href="https://github.com/frodri13/resume/raw/main/Fabio%20Rodriguez%20CV.pdf" target='_blank'>
