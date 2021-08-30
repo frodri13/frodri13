@@ -3,7 +3,7 @@
 ## I'm a Full Stack Junior Web Developer
 
 - ☕ I'm currently learning Java.
-- 👷 I'm looking for a job, remote or oterwise.
+- 👷 I'm looking for a job, remote or otherwise.
 - 📘 I'm working on my blog.
 - 🃏 Fun fact: I love Martial Arts 👊, Meditation 🧠 and playing guitar 🎸
 
