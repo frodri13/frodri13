@@ -1,8 +1,14 @@
 ### Hi there, I'm Fabio! 👋
 
+I am a recent graduate from Makers Academy. I originally studied Modern Languages back in Venezuela, and worked as a Teacher, Interpreter and Transaltor. After coming to the UK I worked in the Customer Service Sector for over 4 years at multiple rolesm where I learnt the value of being a team player, continuous personal improvement and loads of soft skills.
+
+My passion for tech and coding started in my last job. Whenever there were technical difficulties, a sort of task that needed to be done without having the know how, I gravitated to those situations more and more. From automatising reports on Excel to helping my IT and Telecommunications departments, I was hooked on the thrill of researching, trying things out and coming up with a solution. From there, I ventured to Coding Katas in codewars, and nothing compared to the thrill of completing the Kata after much struggle.
+
+This path led me to Makers, where I spent the last 5 months striving to acquire new skills daily. From only some basic knowledge on Ruby, Git, and the terminal, I built projects such as a Airbnb Clone using Ruby, Sinatra and Postgres. A Facebook one Using Ruby on Rails; and our own original project where we built a hiking app using the MEARN stack.
+
 ## I'm a Full Stack Junior Web Developer
 
-- ☕ I'm currently learning Java.
+- ☕ I'm currently learning Vue, AWS and Java.
 - 👷 I'm looking for a job, remote or otherwise.
 - 📘 I'm working on my blog.
 - 🃏 Fun fact: I love Martial Arts 👊, Meditation 🧠 and playing guitar 🎸
