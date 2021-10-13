@@ -8,7 +8,7 @@ This path led me to Makers, where I spent the last 5 months striving to acquire 
 
 ## I'm a Full Stack Junior Web Developer
 
-- ☕ I'm currently learning Vue, AWS and Java.
+- ☕ I'm currently learning Docker, AWS and React Native.
 - 👷 I'm looking for a job, remote or otherwise.
 - 📘 I'm working on my blog.
 - 🃏 Fun fact: I love Martial Arts 👊, Meditation 🧠 and playing guitar 🎸
