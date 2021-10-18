@@ -30,7 +30,7 @@ This path led me to Makers, where I spent the last 5 months striving to acquire 
   <a href="https://www.codewars.com/users/frodri13">
     <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white"/>
 	</a>
-	<a href="https://github.com/frodri13/resume/raw/main/Fabio%20Rodriguez%20CV.pdf" target='_blank'>
+	<a href="https://github.com/frodri13/resume/blob/main/CV.pdf" target='_blank'>
     <img src="https://img.shields.io/badge/CV-%23AD2C27?style=for-the-badge&logo=CV&logoColor=white"/>
 	</a>
 </div>
