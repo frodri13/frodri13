@@ -21,7 +21,7 @@ This path led me to Makers, where I spent the last 5 months striving to acquire 
   <a href="https://www.linkedin.com/in/rodriguezfabio/">
     <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
-	<a href="https://sharp-allen-d04524.netlify.app/index.html">
+	<a href="https://fabio-rodriguez.netlify.app/">
     <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=1F222A">
 	</a>
 	<a href="mailto:alessf13@gmail.com">
