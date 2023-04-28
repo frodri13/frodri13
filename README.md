@@ -4,7 +4,7 @@ I am a Junior Full Stack Web Developer with experience in React, Spring Boot and
 
 ## I'm a Full Stack Junior Web Developer
 
-- ☕ I'm currently learning React Native.
+- ☕ I'm currently learning TypeScript, Data Structures and Algorithms.
 - 👷 I'm looking for a job, remote or otherwise.
 - 📘 I'm working on my blog.
 - 🃏 Fun fact: I love Martial Arts 👊, Meditation 🧠 and playing guitar 🎸
