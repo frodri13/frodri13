@@ -1,13 +1,13 @@
 ### Hi there, I'm Fabio! 👋
 
-I am a Junior Full Stack Web Developer with experience in React, Spring Boot and Rails alike. I believe coding is the perfect blend between Logic, Creativity, Art and Science. This led me to change careers and join Makers Academy. I also have a background in Languages and Customer Service.
+I am a Full Stack Web Developer with experience in React, Nextjs, TypeScript and Tailwind. I love creating products from the ground up, and the continuous learning necessary in the tech world. I currently work as a Technical Support Engineer where I’m constantly solving logical problems and finding solutions for our customers.
 
-## I'm a Full Stack Junior Web Developer
+## I'm a Full Stack Web Developer
 
 - ☕ I'm currently learning TypeScript, Data Structures and Algorithms.
 - 👷 I'm looking for a job, remote or otherwise.
 - 📘 I'm working on my blog.
-- 🃏 Fun fact: I love Martial Arts 👊, Meditation 🧠 and playing guitar 🎸
+- 🃏 Fun fact: I am a MMA fan and I love Martial Arts 👊!
 
 ## Connect with me:
 
