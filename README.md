@@ -64,7 +64,7 @@ During my time with Makers, I have learnt how to TDD my applications from the gr
 <div align="left">
 	
  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="400" height="300" />
           
           
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
