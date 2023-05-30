@@ -32,7 +32,7 @@ I am a Full Stack Web Developer with experience in React, Nextjs, TypeScript and
 
 ---
 
-## Education
+## :school: Education
 
 ### 👨‍🎓 Makers Academy (May 2021 - September 2021)
 
