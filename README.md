@@ -17,8 +17,7 @@ I am a Full Stack Web Developer with experience in React, Nextjs, TypeScript and
   <a href="https://www.linkedin.com/in/rodriguezfabio/" target="_blank">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="100" height="100" />
    </a>
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/rodriguezfabio/){:target="_blank"}
-	<a href="https://fabio-rodriguez.netlify.app/">
+<a href="https://fabio-rodriguez.netlify.app/">
     <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=1F222A">
 	</a>
 	<a href="mailto:alessf13@gmail.com">
@@ -82,7 +81,9 @@ During my time with Makers, I have learnt how to TDD my applications from the gr
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="100" height="100" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="100" height="100" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="100" height="100" />
-                    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="100" height="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="100" height="100" />
+                              
 <div/>
 
 ---
