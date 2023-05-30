@@ -90,5 +90,5 @@ During my time with Makers, I have learnt how to TDD my applications from the gr
 
 <p align="center">
     <img alt="Fabio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=frodri13&theme=transparent&show_icons=true&hide_border=true&bg_color=0D1117&hide=html,css" /></a>
-  <img alt="Fabio's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frodri13&langs_count=8&count_private=true&layout=compact&theme=blue-green&hide_border=true&bg_color=0D1117&hide=html,css" /></a>
+  <img alt="Fabio's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frodri13&langs_count=8&count_private=true&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&hide=html,css" /></a>
 </p>
