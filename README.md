@@ -22,7 +22,7 @@ I am a Full Stack Web Developer with experience in React, Nextjs, TypeScript and
 	<img src="https://frontendmasters.com/favicon-32x32.png" width="50" height="50"/>	
 </a>
 <a href="https://fabio-rodriguez.netlify.app/">
-    <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=1F222A" width="100" height="50" >
+    <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=1F222A" width="150" height="50" >
 	</a>
 <a href="https://github.com/frodri13/resume/blob/main/CV.pdf" target='_blank'>
     <img src="https://img.shields.io/badge/CV-%23AD2C27?style=for-the-badge&logo=CV&logoColor=white" width="50" height="50" />
