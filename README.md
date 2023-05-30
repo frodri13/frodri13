@@ -10,7 +10,7 @@ I am a Full Stack Web Developer with experience in React, Nextjs, TypeScript and
 - 👷 I'm looking for a job, remote or otherwise.
 - 🃏 Fun fact: I am a MMA fan and I love Martial Arts 👊!
 
-## Connect with me:
+## Connect with me :eyes:
 
 <br />
 
