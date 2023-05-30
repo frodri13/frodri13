@@ -15,8 +15,8 @@ I am a Full Stack Web Developer with experience in React, Nextjs, TypeScript and
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rodriguezfabio/">
-    <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-	</a>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="100" height="100" />
+   </a>
 	<a href="https://fabio-rodriguez.netlify.app/">
     <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=1F222A">
 	</a>
