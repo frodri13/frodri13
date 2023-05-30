@@ -56,7 +56,7 @@ During my time with Makers, I have learnt how to TDD my applications from the gr
 
 ---
 
-## Languages and Tools:
+## :computer: Languages and Tools:
 
 <br />
 
