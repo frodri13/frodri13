@@ -8,7 +8,6 @@ I am a Full Stack Web Developer with experience in React, Nextjs, TypeScript and
 
 - ☕ I'm currently learning TypeScript, Data Structures and Algorithms.
 - 👷 I'm looking for a job, remote or otherwise.
-- 📘 I'm working on my blog.
 - 🃏 Fun fact: I am a MMA fan and I love Martial Arts 👊!
 
 ## Connect with me:
