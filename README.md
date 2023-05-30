@@ -27,6 +27,9 @@ I am a Full Stack Web Developer with experience in React, Nextjs, TypeScript and
 <a href="https://github.com/frodri13/resume/blob/main/CV.pdf" target='_blank'>
     <img src="https://img.shields.io/badge/CV-%23AD2C27?style=for-the-badge&logo=CV&logoColor=white" width="50" height="50" />
 </a>
+<a href="https://github.com/frodri13/resume/blob/main/CV.pdf" target='_blank'>
+    <img src="https://img.shields.io/badge/-cv-blue" width="50" height="50" />
+</a>
 
 </div>
 
