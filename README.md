@@ -14,7 +14,7 @@ I am a Full Stack Web Developer with experience in React, Nextjs, TypeScript and
 <br />
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/rodriguezfabio/" target="_blank">
+  <a href="https://www.linkedin.com/in/rodriguezfabio/">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" />
    </a>
 <a href="https://fabio-rodriguez.netlify.app/">
@@ -29,6 +29,10 @@ I am a Full Stack Web Developer with experience in React, Nextjs, TypeScript and
 	<a href="https://github.com/frodri13/resume/blob/main/CV.pdf" target='_blank'>
     <img src="https://img.shields.io/badge/CV-%23AD2C27?style=for-the-badge&logo=CV&logoColor=white"/>
 	</a>
+
+<a href="https://frontendmasters.com/u/frodri13/">
+	<img src="https://frontendmasters.com/favicon-32x32.png" width="50" height="50"/>	
+</a>
 </div>
 
 ---
