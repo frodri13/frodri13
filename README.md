@@ -15,7 +15,7 @@ I am a Full Stack Web Developer with experience in React, Nextjs, TypeScript and
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rodriguezfabio/" target="_blank">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="100" height="100" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" />
    </a>
 <a href="https://fabio-rodriguez.netlify.app/">
     <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=1F222A">
@@ -61,7 +61,7 @@ During my time with Makers, I have learnt how to TDD my applications from the gr
 
 <br />
 
-<div align="center" style="color: red;">
+<div align="center" >
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="100" height="100" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="100" height="100" />     
