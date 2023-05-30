@@ -2,6 +2,8 @@
 
 I am a Full Stack Web Developer with experience in React, Nextjs, TypeScript and Tailwind. I love creating products from the ground up, and the continuous learning necessary in the tech world. I currently work as a Technical Support Engineer in ServiceNow where I’m constantly solving logical problems and finding solutions for our customers.
 
+[Email Me](mailto:alessf13@gmail.com)
+
 ## I'm a Full Stack Web Developer
 
 - ☕ I'm currently learning TypeScript, Data Structures and Algorithms.
@@ -17,22 +19,16 @@ I am a Full Stack Web Developer with experience in React, Nextjs, TypeScript and
   <a href="https://www.linkedin.com/in/rodriguezfabio/">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" />
    </a>
-<a href="https://fabio-rodriguez.netlify.app/">
-    <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=1F222A">
-	</a>
-	<a href="mailto:alessf13@gmail.com">
-  	<img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-	</a>
-  <a href="https://www.codewars.com/users/frodri13">
-    <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white"/>
-	</a>
-	<a href="https://github.com/frodri13/resume/blob/main/CV.pdf" target='_blank'>
-    <img src="https://img.shields.io/badge/CV-%23AD2C27?style=for-the-badge&logo=CV&logoColor=white"/>
-	</a>
-
 <a href="https://frontendmasters.com/u/frodri13/">
 	<img src="https://frontendmasters.com/favicon-32x32.png" width="50" height="50"/>	
 </a>
+<a href="https://fabio-rodriguez.netlify.app/">
+    <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=1F222A">
+	</a>
+<a href="https://github.com/frodri13/resume/blob/main/CV.pdf" target='_blank'>
+    <img src="https://img.shields.io/badge/CV-%23AD2C27?style=for-the-badge&logo=CV&logoColor=white"/>
+</a>
+
 </div>
 
 ---
