@@ -61,7 +61,7 @@ During my time with Makers, I have learnt how to TDD my applications from the gr
 
 <br />
 
-<div align="center">
+<div align="center" style="color: red;">
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="100" height="100" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="100" height="100" />
