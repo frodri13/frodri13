@@ -87,7 +87,9 @@ During my time with Makers, I have learnt how to TDD my applications from the gr
 
 ---
 
-## GitHub Stats
+## GitHub Stats 📊
+
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
 <p align="center">
     <img alt="Fabio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=frodri13&theme=transparent&show_icons=true&hide_border=true&bg_color=0D1117&hide=html,css" /></a>
